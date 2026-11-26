@@ -1,8 +1,5 @@
-<img width="2400" height="640" alt="hero-banner-v3" src="https://github.com/user-attachments/assets/e4c6aa46-5311-4bb7-acd1-02a39c41e098" />
+<img width="2624" height="1632" alt="ideas" src="https://github.com/user-attachments/assets/d6ce8f83-65a9-4b4b-b217-5fd203e730e2" /><img width="2400" height="640" alt="hero-banner-v3" src="https://github.com/user-attachments/assets/e4c6aa46-5311-4bb7-acd1-02a39c41e098" />
 <div align="center">
-
-<!-- HERO GLASS BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0284c7&height=220&section=header&text=Prajwal%20M&fontSize=56&fontColor=f8fafc&fontAlignY=38&desc=Full%20Stack%20%26%203D%20Web%20Developer%20%7C%20Security%20Tooling&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 
 <!-- TYPING TERMINAL HEADER --><img width="2624" height="1632" alt="ideas" src="https://github.com/user-attachments/assets/35d0e4cc-c4ed-4c5c-9ee0-59468468cc5c" />
 
@@ -44,7 +41,7 @@
     <td width="50%" valign="top">
       <h4 align="center">🛡️ TraceGuard — VS Code Security Engine</h4>
       <p align="center">
-        <img src="https://placehold.co/600x340/0f172a/38bdf8?text=TraceGuard+IDE+%26+Dashboard+Mockup&font=jetbrains-mono" alt="TraceGuard Mockup" width="100%" />
+<img width="2624" height="1632" alt="ideas" src="https://github.com/user-attachments/assets/8f27af08-62d1-4faa-ae39-62c8c0313cda" />
       </p>
       <p>Automated in-IDE AST vulnerability detection, pre-commit Git gatekeeping, and tamper-evident SQLite audit ledger paired with a Next.js enterprise risk dashboard.</p>
       <p align="center">
