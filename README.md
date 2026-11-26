@@ -1,9 +1,11 @@
+<img width="2400" height="640" alt="hero-banner-v3" src="https://github.com/user-attachments/assets/e4c6aa46-5311-4bb7-acd1-02a39c41e098" />
 <div align="center">
 
 <!-- HERO GLASS BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0284c7&height=220&section=header&text=Prajwal%20M&fontSize=56&fontColor=f8fafc&fontAlignY=38&desc=Full%20Stack%20%26%203D%20Web%20Developer%20%7C%20Security%20Tooling&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 
-<!-- TYPING TERMINAL HEADER -->
+<!-- TYPING TERMINAL HEADER --><img width="2624" height="1632" alt="ideas" src="https://github.com/user-attachments/assets/35d0e4cc-c4ed-4c5c-9ee0-59468468cc5c" />
+
 <a href="https://prajwal.makeuperfect.in">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+glassmorphic+3D+web+experiences;Architecting+in-IDE+AST+security+engines;Full+Stack+TypeScript+%7C+React+%7C+Cloudflare+Workers" alt="Typing SVG" />
 </a>
@@ -37,6 +39,22 @@
 ---
 
 ### `02 //` Featured UI Mockups & Flagship Builds
+### `02 //` Featured UI Showcase
+
+<div align="center">
+  <img src="https://github.com/appuprajju/appuprajju/assets/YOUR-UPLOADED-ASSET/image_4.png" alt="Featured UI Mockups" width="100%" />
+</div>
+
+<div align="center">
+
+| Project | Stack & Key Feature | Link / Details |
+| :--- | :--- | :--- |
+| **🛡️ TraceGuard** | `TS` `VS Code API` `SQLite` • Pre-commit AST gatekeeping & tamper-evident audit ledger | [Repo ↗](https://github.com/appuprajju) |
+| **🔔 Voice Reminder** | `React` `Cloudflare Workers` `Push` • Natural voice task PWA with Google Calendar sync | [Live Demo ↗](https://reminder.makeuperfect.in) |
+| **🌱 EcoTrack AI** | `React` `Express` `PostgreSQL` `Docker` • Carbon footprint tracking and GCP forecasting | [Repo ↗](https://github.com/appuprajju) |
+| **StadiumMind AI** | `TS` `Actions` `GCloud` • Real-time venue analytics and CI/CD operations management | [Repo ↗](https://github.com/appuprajju) |
+
+</div>
 
 <table>
   <tr>
