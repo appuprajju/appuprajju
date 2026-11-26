@@ -1,8 +1,5 @@
-<img width="2624" height="1632" alt="ideas" src="https://github.com/user-attachments/assets/d6ce8f83-65a9-4b4b-b217-5fd203e730e2" /><img width="2400" height="640" alt="hero-banner-v3" src="https://github.com/user-attachments/assets/e4c6aa46-5311-4bb7-acd1-02a39c41e098" />
-<div align="center">
 
 <!-- TYPING TERMINAL HEADER --><img width="2624" height="1632" alt="ideas" src="https://github.com/user-attachments/assets/35d0e4cc-c4ed-4c5c-9ee0-59468468cc5c" />
-
 <a href="https://prajwal.makeuperfect.in">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+glassmorphic+3D+web+experiences;Architecting+in-IDE+AST+security+engines;Full+Stack+TypeScript+%7C+React+%7C+Cloudflare+Workers" alt="Typing SVG" />
 </a>
@@ -41,7 +38,6 @@
     <td width="50%" valign="top">
       <h4 align="center">🛡️ TraceGuard — VS Code Security Engine</h4>
       <p align="center">
-<img width="2624" height="1632" alt="ideas" src="https://github.com/user-attachments/assets/8f27af08-62d1-4faa-ae39-62c8c0313cda" />
       </p>
       <p>Automated in-IDE AST vulnerability detection, pre-commit Git gatekeeping, and tamper-evident SQLite audit ledger paired with a Next.js enterprise risk dashboard.</p>
       <p align="center">
