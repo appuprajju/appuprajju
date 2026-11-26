@@ -1,5 +1,14 @@
+<div align="center">
 
-<!-- TYPING TERMINAL HEADER --><img width="2624" height="1632" alt="ideas" src="https://github.com/user-attachments/assets/35d0e4cc-c4ed-4c5c-9ee0-59468468cc5c" />
+<!-- HERO GLASS BANNER (GitHub-Reliable SVG Header) -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+
+<br/>
+
+<h1>✨ Prajwal M</h1>
+<p><b>Full Stack & 3D Web Developer &nbsp;|&nbsp; Security Tooling</b></p>
+
+<!-- TYPING TERMINAL HEADER -->
 <a href="https://prajwal.makeuperfect.in">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+glassmorphic+3D+web+experiences;Architecting+in-IDE+AST+security+engines;Full+Stack+TypeScript+%7C+React+%7C+Cloudflare+Workers" alt="Typing SVG" />
 </a>
@@ -17,7 +26,7 @@
 
 ---
 
-### `⚙️` Tech Stack & Core Architecture
+### `01 //` Tech Stack & Core Architecture
 
 <div align="center">
 
@@ -32,12 +41,14 @@
 
 ---
 
-### Featured UI Mockups & Flagship Builds
+### `02 //` Featured UI Mockups & Flagship Builds
+
 <table>
   <tr>
     <td width="50%" valign="top">
       <h4 align="center">🛡️ TraceGuard — VS Code Security Engine</h4>
       <p align="center">
+        <img src="https://placehold.co/600x340/0f172a/38bdf8?text=TraceGuard+IDE+%26+Dashboard+Mockup&font=jetbrains-mono" alt="TraceGuard Mockup" width="100%" />
       </p>
       <p>Automated in-IDE AST vulnerability detection, pre-commit Git gatekeeping, and tamper-evident SQLite audit ledger paired with a Next.js enterprise risk dashboard.</p>
       <p align="center">
@@ -81,7 +92,7 @@
 
 ---
 
-### GitHub Telemetry & Language Matrix
+### `03 //` GitHub Telemetry & Language Matrix
 
 <div align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=appuprajju&show_icons=true&theme=transparent&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&bg_color=0d1117" />
@@ -94,7 +105,7 @@
 
 ---
 
-###  Featured Repositories
+### `04 //` Featured Repositories
 
 <div align="center">
   <a href="https://github.com/appuprajju/my-portfolio">
