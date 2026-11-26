@@ -1,10 +1,11 @@
+
 <div align="center">
 
 <!-- HERO GLASS BANNER (GitHub-Reliable SVG Header) -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
 
 <br/>
-
+<img width="2400" height="640" alt="hero-banner-v3" src="https://github.com/user-attachments/assets/d294d14a-c9a7-4f7c-a82e-c09cea9010d0" />
 <h1>✨ Prajwal M</h1>
 <p><b>Full Stack & 3D Web Developer &nbsp;|&nbsp; Security Tooling</b></p>
 
