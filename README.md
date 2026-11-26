@@ -23,7 +23,7 @@
 
 ---
 
-### `01 //` Tech Stack & Core Architecture
+### `⚙️` Tech Stack & Core Architecture
 
 <div align="center">
 
@@ -38,24 +38,7 @@
 
 ---
 
-### `02 //` Featured UI Mockups & Flagship Builds
-### `02 //` Featured UI Showcase
-
-<div align="center">
-  <img src="https://github.com/appuprajju/appuprajju/assets/YOUR-UPLOADED-ASSET/image_4.png" alt="Featured UI Mockups" width="100%" />
-</div>
-
-<div align="center">
-
-| Project | Stack & Key Feature | Link / Details |
-| :--- | :--- | :--- |
-| **🛡️ TraceGuard** | `TS` `VS Code API` `SQLite` • Pre-commit AST gatekeeping & tamper-evident audit ledger | [Repo ↗](https://github.com/appuprajju) |
-| **🔔 Voice Reminder** | `React` `Cloudflare Workers` `Push` • Natural voice task PWA with Google Calendar sync | [Live Demo ↗](https://reminder.makeuperfect.in) |
-| **🌱 EcoTrack AI** | `React` `Express` `PostgreSQL` `Docker` • Carbon footprint tracking and GCP forecasting | [Repo ↗](https://github.com/appuprajju) |
-| **StadiumMind AI** | `TS` `Actions` `GCloud` • Real-time venue analytics and CI/CD operations management | [Repo ↗](https://github.com/appuprajju) |
-
-</div>
-
+### Featured UI Mockups & Flagship Builds
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -105,7 +88,7 @@
 
 ---
 
-### `03 //` GitHub Telemetry & Language Matrix
+### GitHub Telemetry & Language Matrix
 
 <div align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=appuprajju&show_icons=true&theme=transparent&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&bg_color=0d1117" />
@@ -118,7 +101,7 @@
 
 ---
 
-### `04 //` Featured Repositories
+###  Featured Repositories
 
 <div align="center">
   <a href="https://github.com/appuprajju/my-portfolio">
